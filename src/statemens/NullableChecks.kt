@@ -1,4 +1,4 @@
-package conditionals_01
+package statemens
 
 fun main(){
     println(parseInt("adasd"))

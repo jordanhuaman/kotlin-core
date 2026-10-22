@@ -1,4 +1,4 @@
-package ktclasses
+package classes
 
 
 class KtClasses(val name: String, val parameter: Int) : KtOpenClass() {

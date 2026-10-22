@@ -1,4 +1,4 @@
-package conditionals
+package conditionals_01
 
 class IfConditional(val type: String, val size: Int) {
 
