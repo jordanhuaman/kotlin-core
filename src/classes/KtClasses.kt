@@ -1,5 +1,5 @@
 package classes
-
+import classes.KtClasses;
 
 class KtClasses(val name: String, val parameter: Int) : KtOpenClass() {
 

@@ -18,3 +18,5 @@
 - **if**, **for** and **while** conditional are the same another languages.
 - The ***when*** statement is similar like ***switch***-java statement but more powerful.
 - With ***Range*** statement we can iterate based to a progresion like ```1...10 or 10 downTo 0```
+### Statements
+- [Collections](https://www.youtube.com/watch?v=F8jj7e-_jFA)
