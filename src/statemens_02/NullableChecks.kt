@@ -1,4 +1,4 @@
-package statemens
+package statemens_02
 
 fun main(){
     println(parseInt("adasd"))

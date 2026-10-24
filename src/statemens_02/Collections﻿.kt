@@ -1,4 +1,4 @@
-package statemens
+package statemens_02
 
 /**
  * ***In** we can use this statement to iterate an collection in any statement like ```for, while, when, lambda expresions and more````
